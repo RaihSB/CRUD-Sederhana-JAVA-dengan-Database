@@ -1,5 +1,5 @@
 # CRUD-Sederhana-JAVA-dengan-Database
---
+
 1.Import database 'db_barang.sql' menggunakan MySQL pada localhost/phpmyadmin di Browser Anda.Pastikan MySQL & Apache berjalan.
 
 2.Buka Aplikasi Neteans.
@@ -12,5 +12,5 @@
 
 6.Aplikasi siap digunakan.
 
---
+
 * = username admin default adalah admin dengan password admin123.anda bisa mengganti atau membuat akun baru di phpmyadmin 
